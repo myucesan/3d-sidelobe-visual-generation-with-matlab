@@ -1,4 +1,4 @@
-# Sidelobes Example
+# 3D Sidelobe Visual Generation with Matlab
 
 ![CleanShot 2023-01-12 at 17 48 40@2x](https://user-images.githubusercontent.com/4138641/212129109-98eedcb6-d2b2-4e7c-8d0c-5aae50be3abc.jpg)
 
